@@ -1,3 +1,5 @@
 # A Demo Project for grunt-emo
 
-[See demo](http://martinjunior.github.io/emo/)
+[grunt-emo](https://github.com/martinjunior/grunt-emo)
+
+[Demo site](http://martinjunior.github.io/emo/)
