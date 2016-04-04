@@ -29,14 +29,14 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, perferendis!
     <div class="vr vr_x2">
         <div style="height:50px;background:#333333;"></div>
     </div>
-    I have 5px of margin above me!
+    I have 10px of margin above me!
 </div>
 
 ```markup
 <div class="vr vr_x2">
     <div style="height:50px;background:#333333;"></div>
 </div>
-I have 5px of margin above me!
+I have 10px of margin above me!
 ```
 
 ### 15px
@@ -45,7 +45,7 @@ I have 5px of margin above me!
     <div class="vr vr_x3">
         <div style="height:50px;background:#333333;"></div>
     </div>
-    I have 10x of margin above me!
+    I have 15x of margin above me!
 </div>
 
 ```markup
@@ -68,7 +68,7 @@ I have 15px of margin above me!
 <div class="vr vr_x4">
     <div style="height:50px;background:#333333;"></div>
 </div>
-I have 5px of margin above me!
+I have 20px of margin above me!
 ```
 
 ### 25px
@@ -84,5 +84,5 @@ I have 5px of margin above me!
 <div class="vr vr_x5">
     <div style="height:50px;background:#333333;"></div>
 </div>
-I have 5px of margin above me!
+I have 25px of margin above me!
 ```
